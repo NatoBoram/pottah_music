@@ -1,0 +1,12 @@
+{
+	"json.schemas": [
+		{
+			"fileMatch": ["**/assets/*/sounds.json"],
+			"url": "https://raw.githubusercontent.com/Levertion/minecraft-json-schemas/refs/heads/master/java/assets/sounds.json"
+		},
+		{
+			"fileMatch": ["**/pack.mcmeta"],
+			"url": "https://raw.githubusercontent.com/Levertion/minecraft-json-schemas/refs/heads/master/java/assets/pack.mcmeta.json"
+		}
+	]
+}
