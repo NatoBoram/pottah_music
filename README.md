@@ -6,7 +6,7 @@ A resource pack that adds music from the Harry Potter movies to Minecraft.
 
 <img
   align="right"
-  alt="NieR"
+  alt="HP"
   src="pack.png"
   width="128"
 />
