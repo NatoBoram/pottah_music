@@ -1,95 +1,967 @@
 {
 	"music.creative": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/goblet_of_fire/harry_in_winter",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/quidditch_world_cup",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/order_of_phoenix/fireworks",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/order_of_phoenix/flight_of_order_of_phoenix",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/ron_victory",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/buckbeak_flight",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.credits": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/philosopher_stone/leaving_hogwarts",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/a_new_beginning",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.dragon": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/deathly_hallows_1/snape_to_malfoy_manor",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/dragon_flight",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/quidditch_third_year",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/whomping_willow_and_snowball_fight",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.end": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/deathly_hallows_2/lily_theme",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/resurrection_stone",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/dumbledore_farewell",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/severus_and_lily",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.game": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/order_of_phoenix/flight_of_order_of_phoenix",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/philosopher_stone/harry_wondrous_world",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/a_window_to_the_past",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/hagrid_the_professor",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/lumos",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.menu": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/philosopher_stone/harry_wondrous_world",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/philosopher_stone/hedwig_theme",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/lumos",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.nether.basalt_deltas": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/half_blood_prince/dumbledore_farewell",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_1/snape_to_malfoy_manor",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/a_new_beginning",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/lily_theme",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/resurrection_stone",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/severus_and_lily",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.nether.crimson_forest": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/deathly_hallows_1/snape_to_malfoy_manor",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/courtyard_apocalypse",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/lily_theme",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/severus_and_lily",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.nether.nether_wastes": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/deathly_hallows_2/courtyard_apocalypse",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/dumbledore_farewell",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/lily_theme",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/lumos",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.nether.soul_sand_valley": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/deathly_hallows_2/lily_theme",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/resurrection_stone",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/dumbledore_farewell",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/lumos",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.nether.warped_forest": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/order_of_phoenix/room_of_requirements",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/severus_and_lily",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/a_window_to_the_past",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/lumos",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.badlands": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/a_window_to_the_past",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/buckbeak_flight",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/hagrid_the_professor",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/order_of_phoenix/flight_of_order_of_phoenix",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.bamboo_jungle": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/hagrid_the_professor",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/philosopher_stone/hedwig_theme",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/order_of_phoenix/room_of_requirements",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/living_death",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.cherry_grove": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/chamber_of_secrets/fawkes_the_phoenix",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/chamber_of_secrets/introducing_colin",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/chamber_of_secrets/reunion_of_friends",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/potter_waltz",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/harry_in_winter",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/order_of_phoenix/loved_ones_and_leaving",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/philosopher_stone/leaving_hogwarts",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/when_ginny_kissed_harry",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/a_window_to_the_past",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.deep_dark": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/deathly_hallows_2/lily_theme",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/resurrection_stone",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/severus_and_lily",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.desert": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/a_window_to_the_past",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/lumos",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/order_of_phoenix/loved_ones_and_leaving",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/when_ginny_kissed_harry",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.dripstone_caves": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/deathly_hallows_2/a_new_beginning",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/living_death",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/when_ginny_kissed_harry",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/order_of_phoenix/room_of_requirements",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.flower_forest": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/chamber_of_secrets/reunion_of_friends",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/potter_waltz",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/neville_waltz",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/harry_in_winter",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/order_of_phoenix/loved_ones_and_leaving",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/when_ginny_kissed_harry",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.forest": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/chamber_of_secrets/reunion_of_friends",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/neville_waltz",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/philosopher_stone/hedwig_theme",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/double_trouble",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.frozen_peaks": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/chamber_of_secrets/introducing_colin",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/potter_waltz",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/harry_in_winter",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/philosopher_stone/christmas_at_hogwarts",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/a_window_to_the_past",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/buckbeak_flight",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.grove": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/chamber_of_secrets/fawkes_the_phoenix",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/chamber_of_secrets/reunion_of_friends",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/neville_waltz",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/order_of_phoenix/loved_ones_and_leaving",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/philosopher_stone/christmas_at_hogwarts",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/double_trouble",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.jagged_peaks": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/goblet_of_fire/harry_in_winter",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/quidditch_world_cup",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/order_of_phoenix/fireworks",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/philosopher_stone/christmas_at_hogwarts",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/courtyard_apocalypse",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/a_window_to_the_past",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/buckbeak_flight",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/lumos",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.jungle": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/deathly_hallows_2/a_new_beginning",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/hagrid_the_professor",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/order_of_phoenix/loved_ones_and_leaving",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/living_death",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.lush_caves": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/chamber_of_secrets/fawkes_the_phoenix",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/potter_waltz",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/neville_waltz",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/order_of_phoenix/loved_ones_and_leaving",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/philosopher_stone/hedwig_theme",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/philosopher_stone/leaving_hogwarts",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/resurrection_stone",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/when_ginny_kissed_harry",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.meadow": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/chamber_of_secrets/fawkes_the_phoenix",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/potter_waltz",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/neville_waltz",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/philosopher_stone/leaving_hogwarts",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/a_new_beginning",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.old_growth_taiga": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/goblet_of_fire/harry_in_winter",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/order_of_phoenix/loved_ones_and_leaving",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/order_of_phoenix/room_of_requirements",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/philosopher_stone/hedwig_theme",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/when_ginny_kissed_harry",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/the_friends",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/living_death",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/a_window_to_the_past",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/hagrid_the_professor",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/lumos",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.snowy_slopes": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/chamber_of_secrets/fawkes_the_phoenix",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/chamber_of_secrets/introducing_colin",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/potter_waltz",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/neville_waltz",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/harry_in_winter",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/philosopher_stone/christmas_at_hogwarts",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/philosopher_stone/harry_wondrous_world",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/the_friends",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/double_trouble",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.sparse_jungle": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/deathly_hallows_2/a_new_beginning",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/a_window_to_the_past",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/hagrid_the_professor",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/chamber_of_secrets/reunion_of_friends",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.stony_peaks": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/goblet_of_fire/quidditch_world_cup",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/order_of_phoenix/fireworks",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/courtyard_apocalypse",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/ron_victory",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/a_window_to_the_past",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/buckbeak_flight",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.overworld.swamp": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/order_of_phoenix/room_of_requirements",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/resurrection_stone",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/severus_and_lily",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/half_blood_prince/living_death",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/a_window_to_the_past",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/double_trouble",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/hagrid_the_professor",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/lumos",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	},
 	"music.under_water": {
-		"sounds": []
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pottah_music:music/chamber_of_secrets/fawkes_the_phoenix",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/chamber_of_secrets/reunion_of_friends",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/goblet_of_fire/harry_in_winter",
+				"stream": true,
+				"volume": 0.4
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_2/lily_theme",
+				"stream": true,
+				"volume": 0.4
+			}
+		]
 	}
 }
