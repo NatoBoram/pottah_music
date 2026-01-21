@@ -30,6 +30,16 @@
 				"name": "pottah_music:music/prisoner_of_azkaban/buckbeak_flight",
 				"stream": true,
 				"volume": 1
+			},
+			{
+				"name": "pottah_music:music/philosopher_stone/harry_wondrous_world",
+				"stream": true,
+				"volume": 1
+			},
+			{
+				"name": "pottah_music:music/pure_big_band_1/hot_liquorice",
+				"stream": true,
+				"volume": 1
 			}
 		]
 	},
@@ -121,6 +131,11 @@
 				"name": "pottah_music:music/prisoner_of_azkaban/lumos",
 				"stream": true,
 				"volume": 1
+			},
+			{
+				"name": "pottah_music:music/pure_big_band_1/hot_liquorice",
+				"stream": true,
+				"volume": 1
 			}
 		]
 	},
@@ -196,6 +211,11 @@
 			},
 			{
 				"name": "pottah_music:music/deathly_hallows_2/severus_and_lily",
+				"stream": true,
+				"volume": 1
+			},
+			{
+				"name": "pottah_music:music/essential_collection/double_trouble",
 				"stream": true,
 				"volume": 1
 			}
@@ -604,6 +624,11 @@
 				"name": "pottah_music:music/prisoner_of_azkaban/lumos",
 				"stream": true,
 				"volume": 1
+			},
+			{
+				"name": "pottah_music:music/essential_collection/double_trouble",
+				"stream": true,
+				"volume": 1
 			}
 		]
 	},
@@ -755,6 +780,11 @@
 				"name": "pottah_music:music/prisoner_of_azkaban/lumos",
 				"stream": true,
 				"volume": 1
+			},
+			{
+				"name": "pottah_music:music/essential_collection/double_trouble",
+				"stream": true,
+				"volume": 1
 			}
 		]
 	},
@@ -904,6 +934,11 @@
 			},
 			{
 				"name": "pottah_music:music/prisoner_of_azkaban/lumos",
+				"stream": true,
+				"volume": 1
+			},
+			{
+				"name": "pottah_music:music/essential_collection/double_trouble",
 				"stream": true,
 				"volume": 1
 			}
