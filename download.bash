@@ -42,7 +42,7 @@ download 'https://www.youtube.com/watch?v=PmQ1XTWg74M' './assets/pottah_music/so
 ## 19. Hedwig's Theme
 download 'https://www.youtube.com/watch?v=wtHra9tFISY' './assets/pottah_music/sounds/music/philosopher_stone' 'hedwig_theme'
 
-# Harry Potter and The Chamber of Secrets
+# Harry Potter and the Chamber of Secrets
 # https://www.youtube.com/playlist?list=OLAK5uy_kIl8exOfCoEAB_nldUCH2KfZqNe5N1xAM
 mkdir -p './assets/pottah_music/sounds/music/chamber_of_secrets'
 
@@ -159,5 +159,19 @@ download 'https://www.youtube.com/watch?v=0N9_nB3BNhg' './assets/pottah_music/so
 
 ## 25. A New Beginning
 download 'https://www.youtube.com/watch?v=oGCmLVmsAEc' ' ./assets/pottah_music/sounds/music/deathly_hallows_2' 'a_new_beginning'
+
+# Pure Big Band, Part 1
+# https://www.youtube.com/playlist?list=OLAK5uy_kKMDCWGMcaWTz64shLmAFeZLWkPuafWuE
+mkdir -p './assets/pottah_music/sounds/music/pure_big_band_1'
+
+## 04. Hot Liquorice
+download 'https://www.youtube.com/watch?v=HeUcKt2vaiU' './assets/pottah_music/sounds/music/pure_big_band_1' 'hot_liquorice'
+
+# The Essential Harry Potter Film Music Collection
+# https://www.youtube.com/playlist?list=OLAK5uy_k1qK6tr_QmSg3_ZRIFv1TmFKjyRO8WZ10
+mkdir -p './assets/pottah_music/sounds/music/essential_collection'
+
+## 16. Double Trouble
+download 'https://www.youtube.com/watch?v=YXlmn9-p9-g' './assets/pottah_music/sounds/music/essential_collection' 'double_trouble'
 
 ./build.sh
