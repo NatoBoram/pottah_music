@@ -1,0 +1,49 @@
+{
+	"battle.pvn.default": {
+		"sounds": [
+			{
+				"name": "pottah_music:music/half_blood_prince/ron_victory",
+				"stream": true,
+				"volume": 1
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/whomping_willow_and_snowball_fight",
+				"stream": true,
+				"volume": 1
+			},
+			{
+				"name": "pottah_music:music/pure_big_band_1/hot_liquorice",
+				"stream": true,
+				"volume": 1
+			}
+		]
+	},
+	"battle.pvp.default": {
+		"sounds": [
+			{
+				"name": "pottah_music:music/deathly_hallows_2/dragon_flight",
+				"stream": true,
+				"volume": 1
+			},
+			{
+				"name": "pottah_music:music/deathly_hallows_1/snape_to_malfoy_manor",
+				"stream": true,
+				"volume": 1
+			}
+		]
+	},
+	"battle.pvw.default": {
+		"sounds": [
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/buckbeak_flight",
+				"stream": true,
+				"volume": 1
+			},
+			{
+				"name": "pottah_music:music/prisoner_of_azkaban/quidditch_third_year",
+				"stream": true,
+				"volume": 1
+			}
+		]
+	}
+}
