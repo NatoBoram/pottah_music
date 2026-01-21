@@ -1,5 +1,6 @@
 {
 	"music.creative": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/goblet_of_fire/harry_in_winter",
@@ -44,6 +45,7 @@
 		]
 	},
 	"music.credits": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/philosopher_stone/leaving_hogwarts",
@@ -58,6 +60,7 @@
 		]
 	},
 	"music.dragon": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/deathly_hallows_1/snape_to_malfoy_manor",
@@ -82,6 +85,7 @@
 		]
 	},
 	"music.end": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/deathly_hallows_2/lily_theme",
@@ -106,6 +110,7 @@
 		]
 	},
 	"music.game": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/order_of_phoenix/flight_of_order_of_phoenix",
@@ -140,6 +145,7 @@
 		]
 	},
 	"music.menu": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/philosopher_stone/harry_wondrous_world",
@@ -159,6 +165,7 @@
 		]
 	},
 	"music.nether.basalt_deltas": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/half_blood_prince/dumbledore_farewell",
@@ -193,6 +200,7 @@
 		]
 	},
 	"music.nether.crimson_forest": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/deathly_hallows_1/snape_to_malfoy_manor",
@@ -222,6 +230,7 @@
 		]
 	},
 	"music.nether.nether_wastes": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/deathly_hallows_2/courtyard_apocalypse",
@@ -246,6 +255,7 @@
 		]
 	},
 	"music.nether.soul_sand_valley": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/deathly_hallows_2/lily_theme",
@@ -270,6 +280,7 @@
 		]
 	},
 	"music.nether.warped_forest": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/order_of_phoenix/room_of_requirements",
@@ -294,6 +305,7 @@
 		]
 	},
 	"music.overworld.badlands": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/prisoner_of_azkaban/a_window_to_the_past",
@@ -318,6 +330,7 @@
 		]
 	},
 	"music.overworld.bamboo_jungle": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/prisoner_of_azkaban/hagrid_the_professor",
@@ -342,6 +355,7 @@
 		]
 	},
 	"music.overworld.cherry_grove": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/chamber_of_secrets/fawkes_the_phoenix",
@@ -391,6 +405,7 @@
 		]
 	},
 	"music.overworld.deep_dark": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/deathly_hallows_2/lily_theme",
@@ -410,6 +425,7 @@
 		]
 	},
 	"music.overworld.desert": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/prisoner_of_azkaban/a_window_to_the_past",
@@ -434,6 +450,7 @@
 		]
 	},
 	"music.overworld.dripstone_caves": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/deathly_hallows_2/a_new_beginning",
@@ -458,6 +475,7 @@
 		]
 	},
 	"music.overworld.flower_forest": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/chamber_of_secrets/reunion_of_friends",
@@ -492,6 +510,7 @@
 		]
 	},
 	"music.overworld.forest": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/chamber_of_secrets/reunion_of_friends",
@@ -516,6 +535,7 @@
 		]
 	},
 	"music.overworld.frozen_peaks": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/chamber_of_secrets/introducing_colin",
@@ -550,6 +570,7 @@
 		]
 	},
 	"music.overworld.grove": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/chamber_of_secrets/fawkes_the_phoenix",
@@ -584,6 +605,7 @@
 		]
 	},
 	"music.overworld.jagged_peaks": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/goblet_of_fire/harry_in_winter",
@@ -633,6 +655,7 @@
 		]
 	},
 	"music.overworld.jungle": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/deathly_hallows_2/a_new_beginning",
@@ -657,6 +680,7 @@
 		]
 	},
 	"music.overworld.lush_caves": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/chamber_of_secrets/fawkes_the_phoenix",
@@ -701,6 +725,7 @@
 		]
 	},
 	"music.overworld.meadow": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/chamber_of_secrets/fawkes_the_phoenix",
@@ -730,6 +755,7 @@
 		]
 	},
 	"music.overworld.old_growth_taiga": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/goblet_of_fire/harry_in_winter",
@@ -789,6 +815,7 @@
 		]
 	},
 	"music.overworld.snowy_slopes": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/chamber_of_secrets/fawkes_the_phoenix",
@@ -838,6 +865,7 @@
 		]
 	},
 	"music.overworld.sparse_jungle": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/deathly_hallows_2/a_new_beginning",
@@ -862,6 +890,7 @@
 		]
 	},
 	"music.overworld.stony_peaks": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/goblet_of_fire/quidditch_world_cup",
@@ -896,6 +925,7 @@
 		]
 	},
 	"music.overworld.swamp": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/order_of_phoenix/room_of_requirements",
@@ -945,6 +975,7 @@
 		]
 	},
 	"music.under_water": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/chamber_of_secrets/fawkes_the_phoenix",

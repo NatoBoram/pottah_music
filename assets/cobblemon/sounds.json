@@ -1,5 +1,6 @@
 {
 	"battle.pvn.default": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/half_blood_prince/ron_victory",
@@ -19,6 +20,7 @@
 		]
 	},
 	"battle.pvp.default": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/deathly_hallows_2/dragon_flight",
@@ -33,6 +35,7 @@
 		]
 	},
 	"battle.pvw.default": {
+		"replace": false,
 		"sounds": [
 			{
 				"name": "pottah_music:music/prisoner_of_azkaban/buckbeak_flight",
